@@ -1,0 +1,12 @@
+magic
+tech scmos
+timestamp 1524078036
+use top_module  top_module_0
+timestamp 1524077579
+transform 1 0 1203 0 1 1279
+box 0 0 2563 2540
+use PadFrame  PadFrame_0
+timestamp 1524078036
+transform 1 0 2500 0 1 2500
+box -2500 -2500 2500 2500
+<< end >>
